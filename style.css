@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.para {
+  height: 158px;
+  width: 700px;
+  max-width: 100%;
+  background-color: rgb(78, 99, 189);
+  color: white;
+  margin: 10px;
+}
